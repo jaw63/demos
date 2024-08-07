@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load data from the CSV file
-df = pd.read_csv('jupiter data.csv')
+df = pd.read_csv('jupiter data.csv') # source: https://science.nasa.gov/jupiter/moons/all-jupiter-moons/
 
 # Ensure the Year_discovered column is numeric
 df['Year_discovered'] = pd.to_numeric(df['Year_discovered'], errors='coerce')
