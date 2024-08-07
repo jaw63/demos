@@ -29,6 +29,4 @@ def pixelate_image(image_path, x_pixels, y_pixels, output_path):
     
     return pixelated_image
 
-pixelated_image = pixelate_image('flowers.png', 30, 30, 'flowers2.png')
-
-#pixelated_image = pixelate_image('flowers.jpg', 19, 19, 'flowers2.jpg')
+pixelated_image = pixelate_image('flowers.jpg', 19, 19, 'flowers2.jpg')
