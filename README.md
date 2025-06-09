@@ -10,4 +10,5 @@ Contents
 * 🔠 markov - for generating text via a markov model trained on an input text file
 * 🌻 pixel - for pixellating an image to a customizable level
 * 🤔 samples - common python programming quiz questions and brainteasers
+* ⛈️ weather - use the openweathermap API to get current weather infomartion for a given city
 * ☁️ wordcloud - for generating word cloud art from a provided text file
