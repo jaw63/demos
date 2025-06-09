@@ -2,7 +2,7 @@ import requests
 import tkinter as tk
 
 # Set up the OpenWeatherMap API key and endpoint
-api_key = '2eadbce824b0cf2af553b4590e2f75ff'
+api_key = [ADD YOUR API KEY HERE]
 url = "http://api.openweathermap.org/data/2.5/weather"
 
 # Define a function to retrieve the weather conditions for a given location
