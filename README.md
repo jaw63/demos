@@ -8,4 +8,5 @@ Contents
 * 🌑 jupiter - for plottng the cucumlative number of known moons of Jupiter from NASA data
 * 🔠 markov - for generating text via a markov model trained on an input text file
 * 🌻 pixel - for pixellating an image to a customizable level
+* 🤔 samples - common python programming quiz questions
 * ☁️ wordcloud - for generating word cloud art from a provided text file
